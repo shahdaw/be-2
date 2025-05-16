@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\LMS1\LMS1\obj\Debug\net8.0\LMS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LMS1\LMS1\obj\Debug\net8.0\LMS1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LMS1\LMS1\obj\Debug\net8.0\LMS1.AssemblyInfo.cs
+C:\Users\User\source\repos\LMS1\LMS1\obj\Debug\net8.0\LMS1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LMS1\LMS1\bin\Debug\net8.0\LMS1.exe
+C:\Users\User\source\repos\LMS1\LMS1\bin\Debug\net8.0\LMS1.deps.json
+C:\Users\User\source\repos\LMS1\LMS1\bin\Debug\net8.0\LMS1.runtimeconfig.json
+C:\Users\User\source\repos\LMS1\LMS1\bin\Debug\net8.0\LMS1.dll
+C:\Users\User\source\repos\LMS1\LMS1\bin\Debug\net8.0\LMS1.pdb
+C:\Users\User\source\repos\LMS1\LMS1\obj\Debug\net8.0\LMS1.dll
+C:\Users\User\source\repos\LMS1\LMS1\obj\Debug\net8.0\refint\LMS1.dll
+C:\Users\User\source\repos\LMS1\LMS1\obj\Debug\net8.0\LMS1.pdb
+C:\Users\User\source\repos\LMS1\LMS1\obj\Debug\net8.0\LMS1.genruntimeconfig.cache
+C:\Users\User\source\repos\LMS1\LMS1\obj\Debug\net8.0\ref\LMS1.dll
